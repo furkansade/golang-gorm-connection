@@ -19,7 +19,7 @@ gorm.io/gorm
 - Update -> ` db.Model().Update `
 - Delete -> ` db.Delete() `
 
-## Kullanılan Sistemler ve Uygulamalar ve IDE
+## Kullanılan Uygulamalar
 - GoLang -> GoLand
 - MySQL
 - MAMP
